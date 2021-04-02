@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Associative();
+            Randomize();
         }
 
         static int Sum(){
@@ -106,6 +106,16 @@ namespace HelloWorld
                 var third = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine($"Result of specified numbers {first}, {second}, and {third}, (x+y).z is {(first+second)*third} and x.y + y.z is {(first*second) + (second*third)}");
+            }
+        static void Randomize(){
+                Console.WriteLine("Your age?");
+                var age = Convert.ToInt16(Console.ReadLine());
+                string[] arr = {"older", "younger"};
+                Random randomGenerator = new Random();
+                var NextId = randomGenerator.Next(0, 2);
+
+
+                Console.WriteLine($"You look {arr[NextId]} than {age}");
             }
         
     
