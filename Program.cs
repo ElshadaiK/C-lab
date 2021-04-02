@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Rectangle();
+            IndexingStrings();
         }
 
         static int Sum(){
@@ -156,6 +156,26 @@ namespace HelloWorld
                 
                 }
         }
+        static void Temperature(){
+                Console.WriteLine("Enter degree in celcius?");
+                var degree = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine($"Kelvin = {degree + 273}");
+                Console.WriteLine($"Fahrenheit = {(degree *9 /5) + 32}");
+        }
+
+        static void IndexingStrings(){
+                Console.WriteLine("Enter string?");
+                var data = (Console.ReadLine());
+                
+                Random randomGenerator = new Random();
+                for(int j = 0; j<3; j++){
+                    var NextId = randomGenerator.Next(0, data.Length);
+                    Console.WriteLine($"{data.Remove(NextId, 1)}");
+                
+                }
+
+        }
+        
         
     
     }
