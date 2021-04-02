@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            PosNeg();
+            TripleSum();
         }
 
         static int Sum(){
@@ -207,6 +207,23 @@ namespace HelloWorld
                     res = false;
                 }
                 Console.WriteLine($"{res}");
+                
+            }
+        
+        static double TripleSum(){
+                Console.WriteLine("First number?");
+                var first = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Second number?");
+                var second = Convert.ToInt32(Console.ReadLine());
+                var result = 0;
+
+                if(first == second){
+                    result = (first)*6;
+                    Console.WriteLine($"They're equal!!! {result}");
+                }
+
+                return result;
+
                 
             }
         
