@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Randomize();
+            Printer();
         }
 
         static int Sum(){
@@ -117,6 +117,25 @@ namespace HelloWorld
 
                 Console.WriteLine($"You look {arr[NextId]} than {age}");
             }
+        static void Printer(){
+                Console.WriteLine("Enter number?");
+                var num = Convert.ToDouble(Console.ReadLine());
+                for(int i = 0; i<4; i++){
+                    if(i%2 == 1){
+                        for(int j = 0; j<4; j++){
+                            Console.Write($"{num}");
+                        }
+                        Console.WriteLine();
+                    }
+                    else{
+                        for(int j = 0; j<4; j++){
+                            Console.Write($"{num} ");
+                        }
+                        Console.WriteLine();
+                    }
+                
+                }
+        }
         
     
     }
