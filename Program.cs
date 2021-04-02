@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Printer();
+            Rectangle();
         }
 
         static int Sum(){
@@ -129,6 +129,26 @@ namespace HelloWorld
                     }
                     else{
                         for(int j = 0; j<4; j++){
+                            Console.Write($"{num} ");
+                        }
+                        Console.WriteLine();
+                    }
+                
+                }
+        }
+        
+        static void Rectangle(){
+                Console.WriteLine("Enter number?");
+                var num = Convert.ToDouble(Console.ReadLine());
+                for(int i = 0; i<5; i++){
+                    if(i== 0 || i==4){
+                        for(int j = 0; j<3; j++){
+                            Console.Write($"{num}");
+                        }
+                        Console.WriteLine();
+                    }
+                    else{
+                        for(int j = 0; j<2; j++){
                             Console.Write($"{num} ");
                         }
                         Console.WriteLine();
