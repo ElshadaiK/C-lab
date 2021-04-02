@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            FirstChar();
+            PosNeg();
         }
 
         static int Sum(){
@@ -194,6 +194,22 @@ namespace HelloWorld
             Console.WriteLine($"{result}");     
                 
         }
+        static void PosNeg(){
+                Console.WriteLine("First number?");
+                var first = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Second number?");
+                var second = Convert.ToDouble(Console.ReadLine());
+                bool res;
+                if((first < 0 && second > 0) || (first > 0 && second < 0)){
+                    res = true;
+                }
+                else{
+                    res = false;
+                }
+                Console.WriteLine($"{res}");
+                
+            }
+        
         
     
     }
