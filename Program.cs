@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Exchange();
+            FirstChar();
         }
 
         static int Sum(){
@@ -183,6 +183,14 @@ namespace HelloWorld
                 result = result.ToString() + data[i];
             }
             result += data[0];
+            Console.WriteLine($"{result}");     
+                
+        }
+        static void FirstChar(){
+            Console.WriteLine("Enter string?");
+            var data = (Console.ReadLine());
+            var firstChar = "" + data[0];
+            var result = firstChar + data + firstChar;
             Console.WriteLine($"{result}");     
                 
         }
