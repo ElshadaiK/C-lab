@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Console.WriteLine(Longest());
+            Prime();
         }
 
         static int Sum(){
@@ -284,7 +284,36 @@ namespace HelloWorld
             
         }
         
+        static void Odd(){
+            for(int i = 1; i < 100; i++){
+                Console.WriteLine(i);
+                i++;
+            }
+        }
         
+        static void Prime(){
+            int sum = 2;
+            int count = 1;
+            for(int i = 2; count < 500; i++){
+                int div = 0;
+                for(int j = 2; j <= i/2 +1; j++){
+                    if(i % j == 0){
+                        ++div;
+                    }
+                    if(div > 2){
+                        break;
+                    }
+                }
+                
+                if(div == 0){
+                    sum += i;
+                    count++;
+
+                }
+            }
+            Console.WriteLine(count);
+            Console.WriteLine(sum);
+        }
     
     }
 }
