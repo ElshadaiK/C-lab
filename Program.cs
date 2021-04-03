@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Prime();
+            Console.WriteLine(SumDigit());
         }
 
         static int Sum(){
@@ -315,5 +315,15 @@ namespace HelloWorld
             Console.WriteLine(sum);
         }
     
+        static int SumDigit(){
+            int res = 0;
+            Console.WriteLine("Enter the number?");
+            var input = Convert.ToInt32(Console.ReadLine());
+            var prc = input.ToString();
+            for(int i = 0; i<prc.Length; i++){
+                res += (prc[i] - '0');
+            }
+            return res;
+        }
     }
 }
