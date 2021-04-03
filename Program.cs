@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Absolute();
+            Console.WriteLine(Longest());
         }
 
         static int Sum(){
@@ -265,6 +265,21 @@ namespace HelloWorld
             
             
             return result.ToLower();
+
+            
+        }
+        static string Longest(){
+            Console.WriteLine("Enter string?");
+            var input = (Console.ReadLine());
+            var res = input.Split(' ');
+            int ind = 0;
+            for(int i = 1; i < res.Length; i++){
+                if(res[i].Length > res[ind].Length){
+                    ind = i;
+                }
+            }
+            
+            return res[ind];
 
             
         }
