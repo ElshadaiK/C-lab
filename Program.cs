@@ -259,6 +259,15 @@ namespace HelloWorld
 
                 
             }
+        static string Lower(){
+            Console.WriteLine("First number?");
+            var result = (Console.ReadLine());
+            
+            
+            return result.ToLower();
+
+            
+        }
         
         
     
