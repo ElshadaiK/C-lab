@@ -11,9 +11,9 @@ namespace HelloWorld
             Console.WriteLine($"Hello {name!}");
 
             // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
-            int[] firstMatrix = {10, 20, 30, 40};
-            int[] secondMatrix = {9, 8, 7, 6};
-            MultiplyMatrix(firstMatrix, secondMatrix);
+            // int[] firstMatrix = {10, 20, 30, 40};
+            // int[] secondMatrix = {9, 8, 7, 6};
+            Console.WriteLine(Printer4Times());
         }
 
         static int Sum(){
@@ -357,6 +357,23 @@ namespace HelloWorld
                 res[i] = first[i] * second[i];
             }
             Console.WriteLine(string.Join(", ", res));
+            return res;
+            
+        }
+
+        static string Printer4Times(){
+            var res = "";
+            Console.WriteLine("Enter the sentence?");
+            var input = (Console.ReadLine());
+            var prc = input.Split(" ");
+            if(prc.Length < 4){
+                res = input;
+            }
+            else{
+                for(int i = 0; i<4; i++){
+                    res += prc[prc.Length - 1];
+                }
+            }
             return res;
             
         }
