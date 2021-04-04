@@ -13,7 +13,7 @@ namespace HelloWorld
             // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
             // int[] firstMatrix = {10, 20, 30, 40};
             // int[] secondMatrix = {9, 8, 7, 6};
-            Console.WriteLine(Printer4Times());
+            Console.WriteLine(Starter("Hello"));
         }
 
         static int Sum(){
@@ -383,6 +383,17 @@ namespace HelloWorld
             Console.WriteLine("Enter the number?");
             var input = Convert.ToInt32(Console.ReadLine());
             if(input%7 == 0 || input%3 == 0){
+                res = true;
+            }
+            return res;
+            
+        }
+
+        static bool Starter(string tag){
+            var res = false;
+            Console.WriteLine("Enter the sentence?");
+            var input = (Console.ReadLine()).Split(' ');
+            if(input[0] == tag){
                 res = true;
             }
             return res;
