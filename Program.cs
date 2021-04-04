@@ -10,7 +10,7 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            Console.WriteLine(SumDigit());
+            ReverseSentence();
         }
 
         static int Sum(){
@@ -325,5 +325,17 @@ namespace HelloWorld
             }
             return res;
         }
+        static void ReverseSentence(){
+            Console.WriteLine("Enter the sentence?");
+            var input = (Console.ReadLine());
+            var res = "";
+            var prc = input.Split(' ');
+            for(int i = prc.Length -1; i>0; i--){
+                res += prc[i] + " ";
+            }
+            res += prc[0];
+            Console.WriteLine(res);
+        }
+    
     }
 }
