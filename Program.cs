@@ -10,7 +10,8 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            ReverseSentence();
+            string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
+            FileSize(fileName);
         }
 
         static int Sum(){
@@ -335,6 +336,12 @@ namespace HelloWorld
             }
             res += prc[0];
             Console.WriteLine(res);
+        }
+
+        static void FileSize(string fileName){
+            System.IO.FileInfo fi = new System.IO.FileInfo(fileName);  
+            long size = fi.Length;  
+            Console.WriteLine("File Size in Bytes: {0}", size);  
         }
     
     }
