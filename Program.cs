@@ -10,8 +10,8 @@ namespace HelloWorld
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name!}");
 
-            string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
-            FileSize(fileName);
+            // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
+            HexToDec("10FA");
         }
 
         static int Sum(){
@@ -343,6 +343,9 @@ namespace HelloWorld
             long size = fi.Length;  
             Console.WriteLine("File Size in Bytes: {0}", size);  
         }
-    
+        static void HexToDec(string hexVal){
+            int res =  Convert.ToInt32(hexVal, 16);
+            Console.WriteLine("Decimal value: {0}", res);  
+        }
     }
 }
