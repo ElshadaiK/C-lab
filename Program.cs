@@ -11,7 +11,9 @@ namespace HelloWorld
             Console.WriteLine($"Hello {name!}");
 
             // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
-            HexToDec("10FA");
+            int[] firstMatrix = {10, 20, 30, 40};
+            int[] secondMatrix = {9, 8, 7, 6};
+            MultiplyMatrix(firstMatrix, secondMatrix);
         }
 
         static int Sum(){
@@ -346,6 +348,17 @@ namespace HelloWorld
         static void HexToDec(string hexVal){
             int res =  Convert.ToInt32(hexVal, 16);
             Console.WriteLine("Decimal value: {0}", res);  
+        }
+
+        static Array MultiplyMatrix(int[] first, int[] second){
+            int minVal = Math.Min(first.Length, second.Length);
+            int[] res = new int[minVal];
+            for (int i = 0; i < minVal; i++) {
+                res[i] = first[i] * second[i];
+            }
+            Console.WriteLine(string.Join(", ", res));
+            return res;
+            
         }
     }
 }
