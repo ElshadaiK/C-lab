@@ -429,12 +429,26 @@ namespace HelloWorld
         static string ContainsHP(){
             Console.WriteLine("Enter the sentence");
             var input = (Console.ReadLine());
-            if(input[1] == 'H'){
-                if(input[2] == 'P'){
+            if(input.Length >= 2 && input[1] == 'H'){
+                if(input.Length >= 3 && input[2] == 'P'){
                     input = input.Remove(1, 2);
                 }
             }
             return input;
+            
+        }
+
+        static string HPSentence(){
+            string res = "";
+            Console.WriteLine("Enter the sentence");
+            var input = (Console.ReadLine());
+            if(input.Length >= 1 && input[0] == 'P'){
+                res += input[0];
+                if(input.Length >= 1 && input[1] == 'H'){
+                    res += input[1];
+                }
+            }
+            return res;
             
         }
     }
