@@ -13,7 +13,7 @@ namespace HelloWorld
             // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
             // int[] firstMatrix = {10, 20, 30, 40};
             // int[] secondMatrix = {9, 8, 7, 6};
-            Console.WriteLine(Starter("Hello"));
+            Console.WriteLine(ContainsHP());
         }
 
         static int Sum(){
@@ -410,6 +410,31 @@ namespace HelloWorld
                 res = true;
             }
             return res;
+            
+        }
+
+        static bool CheckRange(){
+            var res = false;
+            Console.WriteLine("Enter the first number?");
+            var first = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the second number?");
+            var second = Convert.ToInt32(Console.ReadLine());
+            if((first < 10 && first > -10) || (second < 10 && second > -10)){
+                res = true;
+            }
+            return res;
+            
+        }
+
+        static string ContainsHP(){
+            Console.WriteLine("Enter the sentence");
+            var input = (Console.ReadLine());
+            if(input[1] == 'H'){
+                if(input[2] == 'P'){
+                    input = input.Remove(1, 2);
+                }
+            }
+            return input;
             
         }
     }
