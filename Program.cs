@@ -13,7 +13,7 @@ namespace HelloWorld
             // string fileName = @"C:\Users\fekadu\Documents\WiFi.txt"; 
             // int[] firstMatrix = {10, 20, 30, 40};
             // int[] secondMatrix = {9, 8, 7, 6};
-            Console.WriteLine(ContainsHP());
+            MaxMin();
         }
 
         static int Sum(){
@@ -449,6 +449,29 @@ namespace HelloWorld
                 }
             }
             return res;
+            
+        }
+
+        static void MaxMin(){
+            Console.WriteLine("Enter the first number?");
+            var first = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the second number?");
+            var second = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the third number?");
+            var third = Convert.ToInt32(Console.ReadLine());
+            var max = first;
+            var min = first;
+            if(second > max){
+                min = max;
+                max = second;
+            }
+            if(third > max){
+                max = third;
+            }
+            if(third < min){
+                min = third;
+            }
+            Console.WriteLine($"Max {max}, Min {min}");
             
         }
     }
