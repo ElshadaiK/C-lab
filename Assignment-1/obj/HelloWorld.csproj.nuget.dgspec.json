@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\Assignment-1\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\Assignment-1\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\Assignment-1\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\Assignment-1\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\fekadu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\fekadu\\Documents\\Programming Projects\\C# Projects\\Assignment-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fekadu\\AppData\\Roaming\\NuGet\\NuGet.Config",
