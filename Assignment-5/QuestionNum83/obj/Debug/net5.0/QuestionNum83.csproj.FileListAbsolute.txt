@@ -1,0 +1,16 @@
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83.deps.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83.runtimeconfig.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83.runtimeconfig.dev.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/ref/QuestionNum83.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/bin/Debug/net5.0/QuestionNum83.pdb
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.csprojAssemblyReference.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.GeneratedMSBuildEditorConfig.editorconfig
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.AssemblyInfoInputs.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.AssemblyInfo.cs
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.csproj.CoreCompileInputs.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/ref/QuestionNum83.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.pdb
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum83/obj/Debug/net5.0/QuestionNum83.genruntimeconfig.cache

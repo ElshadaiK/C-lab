@@ -1,0 +1,16 @@
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3.deps.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3.runtimeconfig.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3.runtimeconfig.dev.json
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/ref/QuestionNum3.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/bin/Debug/net5.0/QuestionNum3.pdb
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.csprojAssemblyReference.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.GeneratedMSBuildEditorConfig.editorconfig
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.AssemblyInfoInputs.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.AssemblyInfo.cs
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.csproj.CoreCompileInputs.cache
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/ref/QuestionNum3.dll
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.pdb
+/home/abeni/Documents/Documents/OOP II/Assignment3/QuestionNum3/obj/Debug/net5.0/QuestionNum3.genruntimeconfig.cache
