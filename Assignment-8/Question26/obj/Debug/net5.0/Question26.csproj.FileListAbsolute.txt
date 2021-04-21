@@ -1,0 +1,16 @@
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.exe
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.deps.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.runtimeconfig.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.runtimeconfig.dev.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\ref\Question26.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\bin\Debug\net5.0\Question26.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.csprojAssemblyReference.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.GeneratedMSBuildEditorConfig.editorconfig
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.AssemblyInfoInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.AssemblyInfo.cs
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.csproj.CoreCompileInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\ref\Question26.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\08-String\Question26\obj\Debug\net5.0\Question26.genruntimeconfig.cache
