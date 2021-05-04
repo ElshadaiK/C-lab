@@ -1,0 +1,16 @@
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.exe
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.deps.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.runtimeconfig.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.runtimeconfig.dev.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\ref\Question11.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\bin\Debug\net5.0\Question11.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.csprojAssemblyReference.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.GeneratedMSBuildEditorConfig.editorconfig
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.AssemblyInfoInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.AssemblyInfo.cs
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.csproj.CoreCompileInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\ref\Question11.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question11\obj\Debug\net5.0\Question11.genruntimeconfig.cache

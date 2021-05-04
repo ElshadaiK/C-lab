@@ -1,0 +1,16 @@
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.csprojAssemblyReference.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.AssemblyInfoInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.AssemblyInfo.cs
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.csproj.CoreCompileInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.exe
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.deps.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.runtimeconfig.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.runtimeconfig.dev.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\ref\Question3.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\bin\Debug\net5.0\Question3.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\ref\Question3.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\Assignments\09-Function\Question3\obj\Debug\net5.0\Question3.genruntimeconfig.cache
